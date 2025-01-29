@@ -17,6 +17,7 @@ bash
 Copy
 Edit
 git clone https://github.com/gaduputimahesh/Weather-app.git
+
 Navigate to the project directory:
 bash
 Copy
@@ -34,6 +35,8 @@ CSS
 JavaScript
 OpenWeatherMap API
 # demo
+
+![Screenshot (175)](https://github.com/user-attachments/assets/a2c95b19-d03f-4ec1-9649-48b39fa59357)
 
 
 
